@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.things{
+    text-align: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.inp{
+    height: 30px;
+    width: 400px;
+    border: 5px solid black;
+    padding: 10px;
+    
+
+    }
+.btn{
+    margin-top: 20px;
+    padding: 10px 25px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    list-style-type: none
+}
+.list{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
+p{
+    font-weight: bold;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.time1{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.time2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.time3{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
